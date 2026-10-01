@@ -1,0 +1,530 @@
+{
+  "provider": "ElevenLabs",
+  "model": "eleven_v4",
+  "cast": {
+    "moreira": {
+      "name": "Daniel",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "tags": [
+        "serious",
+        "firm"
+      ],
+      "speed": 0.96
+    },
+    "vieira": {
+      "name": "Eric",
+      "voiceId": "cjVigY5qzO86Huf0OWal",
+      "tags": [
+        "confident"
+      ],
+      "speed": 1
+    },
+    "souza": {
+      "name": "Callum",
+      "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+      "tags": [
+        "serious"
+      ],
+      "speed": 1
+    },
+    "lima": {
+      "name": "Liam",
+      "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+      "tags": [
+        "alert",
+        "urgent"
+      ],
+      "speed": 1.03
+    },
+    "piloto": {
+      "name": "Chris",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "tags": [
+        "steady",
+        "professional"
+      ],
+      "speed": 1
+    }
+  },
+  "lines": [
+    {
+      "id": "line-01",
+      "who": "piloto",
+      "text": "Vento Negro, aqui é Falcão. Aproximando da zona de pouso.",
+      "file": "line-01-piloto-beaa0322c136.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "steady",
+        "professional"
+      ],
+      "spokenText": "[steady] [professional] Vento Negro, aqui é Falcão. Aproximando da zona de pouso.",
+      "generationHash": "59f70ade3b353c1047da4417b8f6f47f48e381c1a743856c57f36b15894422b0",
+      "duration": 4.043
+    },
+    {
+      "id": "line-02",
+      "who": "moreira",
+      "text": "Atenção, equipe! O alvo é o vilarejo de Al-Harim.",
+      "file": "line-02-moreira-8f0d4364c15b.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "serious",
+        "firm"
+      ],
+      "spokenText": "[serious] [firm] Atenção, equipe! O alvo é o vilarejo de Al-Harim.",
+      "generationHash": "7be40653b7fc573112260d8fcce640ce8f6d19f8a67e3132a23cb3e33e390d18",
+      "duration": 4.12
+    },
+    {
+      "id": "line-03",
+      "who": "moreira",
+      "text": "A inteligência diz que o comandante Rashid guarda um laptop com as rotas de armas da região.",
+      "file": "line-03-moreira-0ffe3fc00a6b.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "serious",
+        "measured"
+      ],
+      "spokenText": "[serious] [measured] A inteligência diz que o comandante Rashid guarda um laptop com as rotas de armas da região.",
+      "generationHash": "76a51b41804deaac5412d69532e74a2a4c7c9196864a4c2aed9743c2fbd4fad8",
+      "duration": 6.2
+    },
+    {
+      "id": "line-04",
+      "who": "moreira",
+      "text": "Entramos pelo sul, limpamos o pátio central e pegamos o laptop no posto de comando.",
+      "file": "line-04-moreira-27bc946b9e13.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "serious",
+        "commanding"
+      ],
+      "spokenText": "[serious] [commanding] Entramos pelo sul, limpamos o pátio central e pegamos o laptop no posto de comando.",
+      "generationHash": "5f7a3ed96326c007c35d05581926190a6717b92d49b6a133d8a86528c021c034",
+      "duration": 5.88
+    },
+    {
+      "id": "line-05",
+      "who": "vieira",
+      "text": "E se o Rashid não estiver lá, senhor?",
+      "file": "line-05-vieira-0f83f6a4e081.mp3",
+      "voiceId": "cjVigY5qzO86Huf0OWal",
+      "voiceName": "Eric",
+      "model": "eleven_v4",
+      "tags": [
+        "curious",
+        "respectful"
+      ],
+      "spokenText": "[curious] [respectful] E se o Rashid não estiver lá, senhor?",
+      "generationHash": "35968b44454ab80d778b1eabd8cf17a4d9a86c8cc4b4f88b768ba09b6611ca77",
+      "duration": 2.7600000000000002
+    },
+    {
+      "id": "line-06",
+      "who": "moreira",
+      "text": "Então levamos tudo o que ele deixou pra trás. Ninguém fica para trás.",
+      "file": "line-06-moreira-fc405b4e5b75.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "firm",
+        "reassuring"
+      ],
+      "spokenText": "[firm] [reassuring] Então levamos tudo o que ele deixou pra trás. Ninguém fica para trás.",
+      "generationHash": "5022b99ba52da0f269aec9d14098f1004c235806885d284e9d2ced1f847f38b4",
+      "duration": 4.6000000000000005
+    },
+    {
+      "id": "line-07",
+      "who": "piloto",
+      "text": "Fogo antiaéreo às três horas! Segurem-se!",
+      "file": "line-07-piloto-530f83476072.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "urgent",
+        "shouts"
+      ],
+      "spokenText": "[urgent] [shouts] Fogo antiaéreo às três horas! Segurem-se!",
+      "generationHash": "4116bea1383d9a4610883b1a26d2a9b84d5ac485100f0aac846c173e58bfa713",
+      "duration": 3.08
+    },
+    {
+      "id": "line-08",
+      "who": "souza",
+      "text": "Isso passou perto demais!",
+      "file": "line-08-souza-dd6bd40fbdeb.mp3",
+      "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+      "voiceName": "Callum",
+      "model": "eleven_v4",
+      "tags": [
+        "tense",
+        "breathless"
+      ],
+      "spokenText": "[tense] [breathless] Isso passou perto demais!",
+      "generationHash": "5fb5c9f526f285fbda78f657cb43442e1f015c8fa6860ff858503f0dc78b75ea",
+      "duration": 2.2
+    },
+    {
+      "id": "line-09",
+      "who": "piloto",
+      "text": "Trinta segundos!",
+      "file": "line-09-piloto-68ae2f235230.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "assertive",
+        "urgent"
+      ],
+      "spokenText": "[assertive] [urgent] Trinta segundos!",
+      "generationHash": "684e571126ea39f1b7345e2c9c60de433bb5192bfe01b3835b426a698f0a4c6e",
+      "duration": 1.64
+    },
+    {
+      "id": "line-10",
+      "who": "moreira",
+      "text": "Travar e carregar! Ramos, você fica colado em mim.",
+      "file": "line-10-moreira-ab1463f83fe7.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "firm",
+        "commanding"
+      ],
+      "spokenText": "[firm] [commanding] Travar e carregar! Ramos, você fica colado em mim.",
+      "generationHash": "81816a85c5aa8257e7dfb4e786a6746bd2a41f5f23a803463c69ffcf11554240",
+      "duration": 4.04
+    },
+    {
+      "id": "line-11",
+      "who": "piloto",
+      "text": "Pousamos! Fora, fora!",
+      "file": "line-11-piloto-f089dc1a4d57.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "urgent",
+        "shouts"
+      ],
+      "spokenText": "[urgent] [shouts] Pousamos! Fora, fora!",
+      "generationHash": "ee99344374bfea6cddcde9129c889be7505411032e51357e327a630724be26c8",
+      "duration": 2.2800000000000002
+    },
+    {
+      "id": "line-12",
+      "who": "moreira",
+      "text": "Vai, vai, vai!",
+      "file": "line-12-moreira-31961d5f9ba1.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "commanding",
+        "shouts"
+      ],
+      "spokenText": "[commanding] [shouts] Vai, vai, vai!",
+      "generationHash": "14e52e05975214f41c2e9f19d74ad15855df0926fe87b45e74f783dbbbcc8c80",
+      "duration": 1.48
+    },
+    {
+      "id": "line-13",
+      "who": "moreira",
+      "text": "Comigo! Em formação, subindo a rua principal.",
+      "file": "line-13-moreira-b66248134f14.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "firm",
+        "commanding"
+      ],
+      "spokenText": "[firm] [commanding] Comigo! Em formação, subindo a rua principal.",
+      "generationHash": "5dd715d06bff77cd1d2b129c4dc8d00f3d2b3afff54afa2b613ba52813a332ce",
+      "duration": 3.8800000000000003
+    },
+    {
+      "id": "line-14",
+      "who": "moreira",
+      "text": "Olhos nos telhados. Isso aqui está quieto demais.",
+      "file": "line-14-moreira-352edbac33e6.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "tense",
+        "quietly"
+      ],
+      "spokenText": "[tense] [quietly] Olhos nos telhados. Isso aqui está quieto demais.",
+      "generationHash": "115f33e749812acc2bd3ac3a846adc61f7087a8a7b642e9fb0feedb60a2d04dc",
+      "duration": 3.96
+    },
+    {
+      "id": "line-15",
+      "who": "moreira",
+      "text": "Contato! Telhados, à frente! Abram fogo!",
+      "file": "line-15-moreira-9eec1f00e55f.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "urgent",
+        "shouts"
+      ],
+      "spokenText": "[urgent] [shouts] Contato! Telhados, à frente! Abram fogo!",
+      "generationHash": "249a30553702d8cee513fb0ad79ba5afe24979df37f1013c630f05d9675c82c9",
+      "duration": 3.48
+    },
+    {
+      "id": "line-16",
+      "who": "vieira",
+      "text": "Telhado da esquerda limpo! Avançando!",
+      "file": "line-16-vieira-cd02f72dda3b.mp3",
+      "voiceId": "cjVigY5qzO86Huf0OWal",
+      "voiceName": "Eric",
+      "model": "eleven_v4",
+      "tags": [
+        "confident",
+        "assertive"
+      ],
+      "spokenText": "[confident] [assertive] Telhado da esquerda limpo! Avançando!",
+      "generationHash": "c74492aee6967e2264cb25df46465e762e2e0ca43a996ea1d79c4a190cbe0372",
+      "duration": 3
+    },
+    {
+      "id": "line-17",
+      "who": "souza",
+      "text": "Área limpa!",
+      "file": "line-17-souza-af8699b33f56.mp3",
+      "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+      "voiceName": "Callum",
+      "model": "eleven_v4",
+      "tags": [
+        "assertive"
+      ],
+      "spokenText": "[assertive] Área limpa!",
+      "generationHash": "1cb3c7c66cf203fe159fe429dec6cd5dc9fe289e79268bf21f3d6080ad73fc37",
+      "duration": 1.24
+    },
+    {
+      "id": "line-18",
+      "who": "moreira",
+      "text": "Pátio limpo. O posto de comando fica ao norte. Ramos, você entra primeiro. Nós cobrimos.",
+      "file": "line-18-moreira-549413467179.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "serious",
+        "commanding"
+      ],
+      "spokenText": "[serious] [commanding] Pátio limpo. O posto de comando fica ao norte. Ramos, você entra primeiro. Nós cobrimos.",
+      "generationHash": "f698ec4c776fda81db74546c538ccbe55b11daf7a33f4f106063be558d598bf0",
+      "duration": 6.5200000000000005
+    },
+    {
+      "id": "line-19",
+      "who": "lima",
+      "text": "Movimento nos flancos do prédio!",
+      "file": "line-19-lima-f87c9c2c3b8f.mp3",
+      "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+      "voiceName": "Liam",
+      "model": "eleven_v4",
+      "tags": [
+        "alert",
+        "urgent"
+      ],
+      "spokenText": "[alert] [urgent] Movimento nos flancos do prédio!",
+      "generationHash": "6ba8c1c6b4a6c51a9f844b42012c2082d08dcfb5c7a5ad81a73e4aa076e38400",
+      "duration": 2.2
+    },
+    {
+      "id": "line-20",
+      "who": "moreira",
+      "text": "Falcão, aqui é Vento Negro Seis. Pacote em mãos. Solicito extração no pátio central.",
+      "file": "line-20-moreira-791018165963.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "serious",
+        "professional"
+      ],
+      "spokenText": "[serious] [professional] Falcão, aqui é Vento Negro Seis. Pacote em mãos. Solicito extração no pátio central.",
+      "generationHash": "d4ba95e184fa65d264a5b88f890fe3e1c4886ab8563aa6e14dc131ef08f6e47e",
+      "duration": 6.603
+    },
+    {
+      "id": "line-21",
+      "who": "piloto",
+      "text": "Entendido, Vento Negro. Falcão a noventa segundos. Aguentem firme.",
+      "file": "line-21-piloto-651928090d20.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "steady",
+        "reassuring"
+      ],
+      "spokenText": "[steady] [reassuring] Entendido, Vento Negro. Falcão a noventa segundos. Aguentem firme.",
+      "generationHash": "52c712e89da7b62db135ab0cbe5d264b3ce15eb47cf98065848cd4be516f4161",
+      "duration": 5.16
+    },
+    {
+      "id": "line-22",
+      "who": "moreira",
+      "text": "Noventa segundos! Todos para o pátio, posições defensivas! Eles estão vindo!",
+      "file": "line-22-moreira-686b99fc22c7.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "commanding",
+        "urgent"
+      ],
+      "spokenText": "[commanding] [urgent] Noventa segundos! Todos para o pátio, posições defensivas! Eles estão vindo!",
+      "generationHash": "b02464accee41d2c69dc3f30927ecce09fbdd81eb24befa19ac77aab9143678b",
+      "duration": 4.92
+    },
+    {
+      "id": "line-23",
+      "who": "vieira",
+      "text": "Inimigos chegando pelo norte!",
+      "file": "line-23-vieira-9223b8002abc.mp3",
+      "voiceId": "cjVigY5qzO86Huf0OWal",
+      "voiceName": "Eric",
+      "model": "eleven_v4",
+      "tags": [
+        "urgent",
+        "shouts"
+      ],
+      "spokenText": "[urgent] [shouts] Inimigos chegando pelo norte!",
+      "generationHash": "41bbbdc8d284163113f8da94620bc4578afe69457d525af887cd9370f1e184e1",
+      "duration": 2.12
+    },
+    {
+      "id": "line-24",
+      "who": "souza",
+      "text": "Técnica! Picape com metralhadora pelo leste!",
+      "file": "line-24-souza-ef4655c416b1.mp3",
+      "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+      "voiceName": "Callum",
+      "model": "eleven_v4",
+      "tags": [
+        "urgent",
+        "shouts"
+      ],
+      "spokenText": "[urgent] [shouts] Técnica! Picape com metralhadora pelo leste!",
+      "generationHash": "3790ad9d8647f885b6642f88745cb6822a115adbaf492d064654029573e121a8",
+      "duration": 3.24
+    },
+    {
+      "id": "line-25",
+      "who": "piloto",
+      "text": "Falcão na área! Descendo no pátio, mantenham a zona quente longe de mim!",
+      "file": "line-25-piloto-e8cb3dcf8db6.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "focused",
+        "assertive"
+      ],
+      "spokenText": "[focused] [assertive] Falcão na área! Descendo no pátio, mantenham a zona quente longe de mim!",
+      "generationHash": "de4aae657773f89e296362836db2e5deb22768b21976243145802c300fdfcf12",
+      "duration": 4.5200000000000005
+    },
+    {
+      "id": "line-26",
+      "who": "moreira",
+      "text": "Extração no chão! Todos a bordo! Ramos, vamos!",
+      "file": "line-26-moreira-ff8d142473bb.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "commanding",
+        "urgent"
+      ],
+      "spokenText": "[commanding] [urgent] Extração no chão! Todos a bordo! Ramos, vamos!",
+      "generationHash": "e8978f8c243e5ca8a12ccfa4d67124962a25ba8b55a8fc36e0dc0225aeffc904",
+      "duration": 3.8800000000000003
+    },
+    {
+      "id": "line-27",
+      "who": "piloto",
+      "text": "Todos a bordo. Decolando.",
+      "file": "line-27-piloto-99086db057c4.mp3",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "voiceName": "Chris",
+      "model": "eleven_v4",
+      "tags": [
+        "steady",
+        "professional"
+      ],
+      "spokenText": "[steady] [professional] Todos a bordo. Decolando.",
+      "generationHash": "e169f3c9ebb109164a57614ec8483cba6e1596046e0750887e6e2c42f0cae79d",
+      "duration": 2.523
+    },
+    {
+      "id": "line-28",
+      "who": "moreira",
+      "text": "Bom trabalho, Ramos. Rashid vai ter uma manhã muito ruim.",
+      "file": "line-28-moreira-6b828aa3e4e1.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "serious",
+        "approving"
+      ],
+      "spokenText": "[serious] [approving] Bom trabalho, Ramos. Rashid vai ter uma manhã muito ruim.",
+      "generationHash": "6319c18386fad76798a9c44c5cbc78e1bbe008025065805571e6fa582b727aae",
+      "duration": 4.84
+    },
+    {
+      "id": "line-29",
+      "who": "vieira",
+      "text": "Café no quartel, capitão?",
+      "file": "line-29-vieira-8c0c6d9da359.mp3",
+      "voiceId": "cjVigY5qzO86Huf0OWal",
+      "voiceName": "Eric",
+      "model": "eleven_v4",
+      "tags": [
+        "lighthearted",
+        "curious"
+      ],
+      "spokenText": "[lighthearted] [curious] Café no quartel, capitão?",
+      "generationHash": "9678b8444116336465ab35be3521bb58c5805c0a2b5c9288a9593979e60bdc15",
+      "duration": 2.2
+    },
+    {
+      "id": "line-30",
+      "who": "moreira",
+      "text": "Café no quartel. Vamos pra casa.",
+      "file": "line-30-moreira-96b3264b75a1.mp3",
+      "voiceId": "onwK4e9ZLuTAKqWW03F9",
+      "voiceName": "Daniel",
+      "model": "eleven_v4",
+      "tags": [
+        "calm",
+        "reassuring"
+      ],
+      "spokenText": "[calm] [reassuring] Café no quartel. Vamos pra casa.",
+      "generationHash": "9f684398569aeee138df265c0c9cb30bd48e0b1b353572cb574443a149fbc6d0",
+      "duration": 2.7600000000000002
+    }
+  ]
+}

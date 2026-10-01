@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Operação Vento Negro</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <canvas id="game"></canvas>
+  <div id="hud" class="hidden"></div>
+  <div id="letterbox"><div></div><div></div></div>
+  <div id="subtitles"></div>
+  <div id="titlecard"></div>
+  <div id="deathfx"></div>
+  <div id="fade"></div>
+
+  <section id="menu" class="screen show">
+    <div class="menu-inner">
+      <div class="logo"><small>CAMPANHA</small>OPERAÇÃO<br /><span>VENTO NEGRO</span></div>
+      <button id="btn-start">INICIAR CAMPANHA</button>
+      <button id="btn-controls" class="ghost">CONTROLES</button>
+      <label class="opt"><input type="checkbox" id="opt-tts" checked /> Vozes dos personagens</label>
+      <div id="controls" class="hidden">
+        <p><b>WASD</b> mover · <b>Shift</b> correr · <b>Espaço</b> pular · <b>C / Ctrl</b> agachar</p>
+        <p><b>Mouse</b> mirar · <b>Clique</b> atirar · <b>Botão direito</b> mira (ADS)</p>
+        <p><b>R</b> recarregar · <b>1 / 2 / roda</b> trocar arma · <b>G</b> granada · <b>E</b> interagir</p>
+        <p><b>Enter</b> pular cinemática · <b>Esc</b> pausar</p>
+      </div>
+      <div class="loading" id="loading">Gerando mundo procedural…</div>
+    </div>
+  </section>
+
+  <section id="briefing" class="screen">
+    <div class="brief-map"><img src="assets/images/briefing_map.jpg" alt="Mapa tático" /><div class="scan"></div>
+      <span class="mk lz">LZ</span><span class="mk pz">PÁTIO</span><span class="mk hq">POSTO DE COMANDO</span></div>
+    <div class="brief-text">
+      <h2>BRIEFING — OPERAÇÃO VENTO NEGRO</h2>
+      <div id="brief-body"></div>
+      <button id="btn-deploy">DESEMBARCAR ▸</button>
+    </div>
+  </section>
+
+  <section id="pause" class="screen"><div class="menu-inner"><h1>PAUSADO</h1><p>Clique para continuar</p></div></section>
+
+  <section id="complete" class="screen">
+    <div class="complete-inner">
+      <h1>MISSÃO CUMPRIDA</h1>
+      <h3>Operação Vento Negro</h3>
+      <div id="stats"></div>
+      <button id="btn-again">JOGAR NOVAMENTE</button>
+    </div>
+  </section>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

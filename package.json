@@ -1,0 +1,19 @@
+{
+  "name": "operacao-vento-negro",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node tests/cinematics.test.mjs",
+    "voices:generate": "node scripts/generate-voices.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

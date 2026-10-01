@@ -1,0 +1,23 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+artifacts/
+
+# Local assistant settings
+.claude/
+.commandcode/
+.codex/
+.agents/
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

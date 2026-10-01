@@ -1,0 +1,152 @@
+[
+  {
+    "id": "line-01",
+    "who": "piloto",
+    "text": "Vento Negro, aqui é Falcão. Aproximando da zona de pouso."
+  },
+  {
+    "id": "line-02",
+    "who": "moreira",
+    "text": "Atenção, equipe! O alvo é o vilarejo de Al-Harim."
+  },
+  {
+    "id": "line-03",
+    "who": "moreira",
+    "text": "A inteligência diz que o comandante Rashid guarda um laptop com as rotas de armas da região."
+  },
+  {
+    "id": "line-04",
+    "who": "moreira",
+    "text": "Entramos pelo sul, limpamos o pátio central e pegamos o laptop no posto de comando."
+  },
+  {
+    "id": "line-05",
+    "who": "vieira",
+    "text": "E se o Rashid não estiver lá, senhor?"
+  },
+  {
+    "id": "line-06",
+    "who": "moreira",
+    "text": "Então levamos tudo o que ele deixou pra trás. Ninguém fica para trás."
+  },
+  {
+    "id": "line-07",
+    "who": "piloto",
+    "text": "Fogo antiaéreo às três horas! Segurem-se!"
+  },
+  {
+    "id": "line-08",
+    "who": "souza",
+    "text": "Isso passou perto demais!"
+  },
+  {
+    "id": "line-09",
+    "who": "piloto",
+    "text": "Trinta segundos!"
+  },
+  {
+    "id": "line-10",
+    "who": "moreira",
+    "text": "Travar e carregar! Ramos, você fica colado em mim."
+  },
+  {
+    "id": "line-11",
+    "who": "piloto",
+    "text": "Pousamos! Fora, fora!"
+  },
+  {
+    "id": "line-12",
+    "who": "moreira",
+    "text": "Vai, vai, vai!"
+  },
+  {
+    "id": "line-13",
+    "who": "moreira",
+    "text": "Comigo! Em formação, subindo a rua principal."
+  },
+  {
+    "id": "line-14",
+    "who": "moreira",
+    "text": "Olhos nos telhados. Isso aqui está quieto demais."
+  },
+  {
+    "id": "line-15",
+    "who": "moreira",
+    "text": "Contato! Telhados, à frente! Abram fogo!"
+  },
+  {
+    "id": "line-16",
+    "who": "vieira",
+    "text": "Telhado da esquerda limpo! Avançando!"
+  },
+  {
+    "id": "line-17",
+    "who": "souza",
+    "text": "Área limpa!"
+  },
+  {
+    "id": "line-18",
+    "who": "moreira",
+    "text": "Pátio limpo. O posto de comando fica ao norte. Ramos, você entra primeiro. Nós cobrimos."
+  },
+  {
+    "id": "line-19",
+    "who": "lima",
+    "text": "Movimento nos flancos do prédio!"
+  },
+  {
+    "id": "line-20",
+    "who": "moreira",
+    "text": "Falcão, aqui é Vento Negro Seis. Pacote em mãos. Solicito extração no pátio central."
+  },
+  {
+    "id": "line-21",
+    "who": "piloto",
+    "text": "Entendido, Vento Negro. Falcão a noventa segundos. Aguentem firme."
+  },
+  {
+    "id": "line-22",
+    "who": "moreira",
+    "text": "Noventa segundos! Todos para o pátio, posições defensivas! Eles estão vindo!"
+  },
+  {
+    "id": "line-23",
+    "who": "vieira",
+    "text": "Inimigos chegando pelo norte!"
+  },
+  {
+    "id": "line-24",
+    "who": "souza",
+    "text": "Técnica! Picape com metralhadora pelo leste!"
+  },
+  {
+    "id": "line-25",
+    "who": "piloto",
+    "text": "Falcão na área! Descendo no pátio, mantenham a zona quente longe de mim!"
+  },
+  {
+    "id": "line-26",
+    "who": "moreira",
+    "text": "Extração no chão! Todos a bordo! Ramos, vamos!"
+  },
+  {
+    "id": "line-27",
+    "who": "piloto",
+    "text": "Todos a bordo. Decolando."
+  },
+  {
+    "id": "line-28",
+    "who": "moreira",
+    "text": "Bom trabalho, Ramos. Rashid vai ter uma manhã muito ruim."
+  },
+  {
+    "id": "line-29",
+    "who": "vieira",
+    "text": "Café no quartel, capitão?"
+  },
+  {
+    "id": "line-30",
+    "who": "moreira",
+    "text": "Café no quartel. Vamos pra casa."
+  }
+]

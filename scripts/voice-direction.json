@@ -1,0 +1,42 @@
+{
+  "model": "eleven_v4",
+  "cast": {
+    "moreira": { "name": "Daniel", "voiceId": "onwK4e9ZLuTAKqWW03F9", "tags": ["serious", "firm"], "speed": 0.96 },
+    "vieira": { "name": "Eric", "voiceId": "cjVigY5qzO86Huf0OWal", "tags": ["confident"], "speed": 1.0 },
+    "souza": { "name": "Callum", "voiceId": "N2lVS1w4EtoT3dr4eOWO", "tags": ["serious"], "speed": 1.0 },
+    "lima": { "name": "Liam", "voiceId": "TX3LPaxmHKxFdv7VOQHJ", "tags": ["alert", "urgent"], "speed": 1.03 },
+    "piloto": { "name": "Chris", "voiceId": "iP95p4xoKVk53GoZ742B", "tags": ["steady", "professional"], "speed": 1.0 }
+  },
+  "lines": {
+    "line-01": ["steady", "professional"],
+    "line-02": ["serious", "firm"],
+    "line-03": ["serious", "measured"],
+    "line-04": ["serious", "commanding"],
+    "line-05": ["curious", "respectful"],
+    "line-06": ["firm", "reassuring"],
+    "line-07": ["urgent", "shouts"],
+    "line-08": ["tense", "breathless"],
+    "line-09": ["assertive", "urgent"],
+    "line-10": ["firm", "commanding"],
+    "line-11": ["urgent", "shouts"],
+    "line-12": ["commanding", "shouts"],
+    "line-13": ["firm", "commanding"],
+    "line-14": ["tense", "quietly"],
+    "line-15": ["urgent", "shouts"],
+    "line-16": ["confident", "assertive"],
+    "line-17": ["assertive"],
+    "line-18": ["serious", "commanding"],
+    "line-19": ["alert", "urgent"],
+    "line-20": ["serious", "professional"],
+    "line-21": ["steady", "reassuring"],
+    "line-22": ["commanding", "urgent"],
+    "line-23": ["urgent", "shouts"],
+    "line-24": ["urgent", "shouts"],
+    "line-25": ["focused", "assertive"],
+    "line-26": ["commanding", "urgent"],
+    "line-27": ["steady", "professional"],
+    "line-28": ["serious", "approving"],
+    "line-29": ["lighthearted", "curious"],
+    "line-30": ["calm", "reassuring"]
+  }
+}
